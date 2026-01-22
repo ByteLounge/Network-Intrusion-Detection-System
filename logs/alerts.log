@@ -1,0 +1,11 @@
+2026-01-22 11:50:04 ALERT flow_index=3 prediction=attack prob=0.950
+2026-01-22 11:50:04 ALERT flow_index=4 prediction=attack prob=0.730
+2026-01-22 11:50:04 ALERT flow_index=5 prediction=attack prob=0.930
+2026-01-22 11:50:04 ALERT flow_index=8 prediction=attack prob=0.780
+2026-01-22 11:50:04 ALERT flow_index=9 prediction=attack prob=0.930
+2026-01-22 11:50:04 ALERT flow_index=10 prediction=label prob=0.690
+2026-01-22 11:50:04 ALERT flow_index=14 prediction=attack prob=0.950
+2026-01-22 11:50:04 ALERT flow_index=15 prediction=attack prob=0.730
+2026-01-22 11:50:04 ALERT flow_index=16 prediction=attack prob=0.930
+2026-01-22 11:50:04 ALERT flow_index=19 prediction=attack prob=0.780
+2026-01-22 11:50:04 ALERT flow_index=20 prediction=attack prob=0.930
