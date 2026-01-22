@@ -115,5 +115,3 @@ This project is intended as an educational prototype. Feel free to open issues o
 MIT-style (no explicit license file included). Use and modify freely for experimentation.
 
 ---
-
-If you'd like, I can also add a short `USAGE.md` with step-by-step screenshots for the GUI or a Dockerfile to containerize the environment.
