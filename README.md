@@ -105,6 +105,11 @@ This project is intended as an educational prototype. Feel free to open issues o
 - Support for streaming detection and lower-latency feature windows
 - Dockerfile or Windows service wrapper for deployment
 
+## UI
+
+<img width="1000" height="843" alt="Screenshot 2026-01-22 145805" src="https://github.com/user-attachments/assets/57a3dadc-de09-43a8-87c8-fd26b01879ae" />
+
+
 ## License
 
 MIT-style (no explicit license file included). Use and modify freely for experimentation.
